@@ -1,0 +1,13 @@
+CS-5001: HW#1
+Programer: Joseph Rice
+
+TRAINING:
+Using learning rate eta = 1e-05
+Using 5000 iterations.
+
+OUTPUT:
+w0 = 8.093951933375989
+w1 = 3.093951933376019
+
+VALIDATION
+Sum-of-Squares Error = 500.26094386777766
